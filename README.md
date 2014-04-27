@@ -1,3 +1,6 @@
+Modifications made by m1el from his fork and various modifications to make compatible with various parsers.
+
+
 To install:
 
 `pip install -r requirements.txt`
